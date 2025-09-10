@@ -37,8 +37,8 @@ Dieses Projekt implementiert die Portfolio-Optimierung nach **Markowitz** mit Hi
    jupyter notebook portfolio_montecarlo.ipynb
 
 ## Beispiel-Plots
-![Efficient Frontier](images/efficient_frontier)
-![Gewichte des Optimalen Portfolios](images/weights)
+![Efficient Frontier](images/efficient_frontier.png)
+![Gewichte des Optimalen Portfolios](images/weights.png)
 
 
 ## Hintergrund: Markowitz Portfolio Theory
