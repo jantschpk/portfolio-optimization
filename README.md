@@ -1,4 +1,4 @@
-# 📊 Portfolio-Optimierung nach dem Markowitz-Modell
+# Portfolio-Optimierung nach dem Markowitz-Modell
 Dieses Projekt implementiert die Portfolio-Optimierung nach **Markowitz** mit Hilfe einer **Monte-Carlo-Simulation**.
 
 ## Libraries
